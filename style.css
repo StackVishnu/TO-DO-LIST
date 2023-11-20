@@ -1,0 +1,23 @@
+
+
+ul li.checked{
+    color: gray;
+    text-decoration: line-through;
+    text-decoration-thickness: 2px;
+    text-decoration-color: darkorange;
+}
+ul li span {
+    position: float-right;
+}
+ul li i:hover{
+    background: red;
+}
+#col{
+    background: rgb(2,2,36);
+    background: linear-gradient(90deg, rgba(2,2,36,1) 100%, rgba(255,161,0,1) 100%);
+    
+}
+#col1{
+    background: rgb(2,2,36);
+    background: linear-gradient(90deg, rgba(2,2,36,1) 100%, rgba(255,161,0,1) 100%);
+}
